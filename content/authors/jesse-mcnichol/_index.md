@@ -1,6 +1,7 @@
 ---
 title: Jesse McNichol
-avatar_filename: 18597129_1347758108645563_824831612_o.jpg
+role: Assistant Professor
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
