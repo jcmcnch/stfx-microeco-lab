@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome to our website!
+title: Welcome!
 hero_media: welcome.jpg
 widget_id: welcome
 design:
