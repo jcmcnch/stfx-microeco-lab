@@ -8,4 +8,6 @@ social:
     icon: twitter
     link: twitter.com/jcmcnch
 superuser: true
+user_groups:
+  - people
 ---
