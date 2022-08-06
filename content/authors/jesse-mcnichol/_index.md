@@ -10,5 +10,5 @@ social:
     link: https://twitter.com/jcmcnick
 superuser: true
 user_groups:
-  - Researchers
+  - PI
 ---
