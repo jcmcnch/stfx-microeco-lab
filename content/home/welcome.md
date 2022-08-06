@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: StFX Microbial Ecology Lab
+#title: StFX Microbial Ecology Lab
 hero_media: welcome.jpg
 widget_id: welcome
 design:
