@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: hli-prochlorococcus.max0.160998845974415.86cd70d2450e3f44f4a7c543f53008ee-easv-plot-03.png
+    image: ""
 ---
 <br>
 
