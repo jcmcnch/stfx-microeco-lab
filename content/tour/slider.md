@@ -34,7 +34,7 @@ content:
         media: DAPI-EPSI-SFOV.gif
     - title: 🧬 Where are microbes found across the world's oceans?
       content: We use modern high-throughput sequencing techniques to quantify microbial community structure and biogeography (3-domain (16S & 18S) SSU rRNA amplicon sequencing)
-      align: center
+      align: top
       background:
         position: center
         color: '#333'
