@@ -17,14 +17,14 @@ content:
   slides:
     - title: ⛵️ Exploring the aquatic "microverse"
       content: We use modern DNA-based techniques to study marine microbial communities and how they affect the whole biosphere
-      align: center
+      align: bottom
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: IMG_3131.JPG
     - title: 🔬 What do uncultivated microbes look like? How active are they?
-      content: We use DNA fluorescent probes to specifically visualize microbes and quantify their activity (CARD/HCR-FISH)
+      content: We use taxon-specific fluorescent DNA probes to visualize environmental microbes and quantify their activity (CARD/HCR-FISH; Isotope labelling)
       align: left
       background:
         position: center
@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: Flavobacteriales-p2-GA03.svg
+        media: hli-prochlorococcus.max0.160998845974415.86cd70d2450e3f44f4a7c543f53008ee-easv-plot-03.png
       link:
         icon: graduation-cap
         icon_pack: fas
