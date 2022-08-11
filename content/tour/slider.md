@@ -17,7 +17,7 @@ content:
   slides:
     - title: ⛵️ Exploring the aquatic "microverse"
       content: We use modern DNA-based techniques to study marine microbial communities and how they affect the whole biosphere
-      align: bottom
+      align: center
       background:
         position: center
         color: '#666'
@@ -25,7 +25,7 @@ content:
         media: IMG_3131.JPG
     - title: 🔬 What do uncultivated microbes look like? How active are they?
       content: We use taxon-specific fluorescent DNA probes to visualize environmental microbes and quantify their activity (CARD/HCR-FISH; Isotope labelling)
-      align: left
+      align: center
       background:
         position: center
         color: '#555'
@@ -33,7 +33,7 @@ content:
         media: DAPI-EPSI-SFOV.gif
     - title: 🧬 Where are microbes found across the world's oceans?
       content: We use modern high-throughput sequencing techniques to quantify microbial community structure and biogeography (3-domain (16S & 18S) SSU rRNA amplicon sequencing)
-      align: left
+      align: center
       background:
         position: center
         color: '#333'
