@@ -47,7 +47,7 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.3
+        brightness: 0.7
         fit: cover
         media: Screenshot_20210119_115341.png 
     - title: Interested in joining?
