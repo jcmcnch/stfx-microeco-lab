@@ -29,6 +29,7 @@ content:
       background:
         position: center
         color: '#555'
+        fit: contain
         brightness: 0.5
         media: DAPI-EPSI-SFOV.gif
     - title: 🧬 Where are microbes found across the world's oceans?
