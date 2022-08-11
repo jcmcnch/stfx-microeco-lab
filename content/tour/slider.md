@@ -41,6 +41,15 @@ content:
         brightness: 0.3
         fit: cover
         media: hli-prochlorococcus.max0.160998845974415.86cd70d2450e3f44f4a7c543f53008ee-easv-plot-03_cropped.png 
+    - title: Interested in joining?
+      content: The lab will officially open in July 2023. Please reach out in the contact form if you're interested to learn about potential research areas!
+      align: center
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.3
+        fit: cover
+        media: IMG_3131.JPG 
       link:
         icon: graduation-cap
         icon_pack: fas
