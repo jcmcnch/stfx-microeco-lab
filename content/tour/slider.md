@@ -19,7 +19,7 @@ content:
       content: We use modern DNA-based techniques to study marine microbial communities and how they affect the whole biosphere
       align: bottom
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: IMG_3131.JPG
@@ -33,7 +33,7 @@ content:
         media: DAPI-EPSI-SFOV.gif
     - title: 🧬 Where are microbes found across the world's oceans?
       content: We use modern high-throughput sequencing techniques to quantify microbial community structure and biogeography (3-domain (16S & 18S) SSU rRNA amplicon sequencing)
-      align: right
+      align: left
       background:
         position: center
         color: '#333'
