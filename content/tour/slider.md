@@ -39,7 +39,7 @@ content:
         color: '#333'
         brightness: 0.5
         fit: contain
-        media: hli-prochlorococcus.max0.160998845974415.86cd70d2450e3f44f4a7c543f53008ee-easv-plot-03.png
+        media: hli-prochlorococcus.max0.160998845974415.86cd70d2450e3f44f4a7c543f53008ee-easv-plot-03_cropped.png 
       link:
         icon: graduation-cap
         icon_pack: fas
