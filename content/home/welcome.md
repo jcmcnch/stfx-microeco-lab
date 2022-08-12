@@ -14,4 +14,4 @@ design:
 ---
 <br>
 
-The StFX Microbial Ecology Lab studies the interactions between microbes (*Bacteria*, *Archaea*, and *Eukarya*), their physical environment, and the biosphere as a whole. We use a combination of field work, modern DNA sequencing, and classical microbiological approaches to address diverse research questions. Check out the (tour)[#tour] to get a sense of our research areas or scroll down to see the latest news from the group.
+The StFX Microbial Ecology Lab studies the interactions between microbes (*Bacteria*, *Archaea*, and *Eukarya*), their physical environment, and the biosphere as a whole. We use a combination of field work, modern DNA sequencing, and classical microbiological approaches to address diverse research questions. Check out the [tour](#tour) to get a sense of our research areas or scroll down to see the latest news from the group.
