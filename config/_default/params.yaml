@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-          notice: '© {year} J. McNichol. This work is licensed under {license}'
+          notice: '© J. McNichol. Campus image credit Brendanriley, Wikimedia Commons. This work is licensed under '
     license:
       enable: true
       allow_derivatives: false
