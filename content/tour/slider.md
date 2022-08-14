@@ -42,14 +42,14 @@ content:
         fit: cover
         media: hli-prochlorococcus.max0.160998845974415.86cd70d2450e3f44f4a7c543f53008ee-easv-plot-03_cropped.png 
     - title: 💻 How do microbial genomes help us understand natural processes?
-      content: We use bioinformatics to explore the genetics of individual strains and how this potential is expressed in nature ((meta)'omics)
+      content: We use bioinformatics to explore the genetics of individual strains and how this potential is expressed in nature (genomics, meta'omics)
       align: center
       background:
         position: center
         color: '#333'
         brightness: 0.7
         fit: cover
-        media: Screenshot_20210119_115341.png 
+        media: fastq.png 
     - title: Interested in joining?
       content: The lab will officially open in July 2023. Please check out the "contact" page if you're interested in joining!
       align: center
