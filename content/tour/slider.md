@@ -58,7 +58,7 @@ content:
         color: '#333'
         brightness: 0.3
         fit: cover
-        media: IMG_3131.JPG 
+        media: StFX_Lower_Campus.jpg 
       link:
         icon: graduation-cap
         icon_pack: fas
