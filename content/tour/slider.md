@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: ⛵️ Exploring the aquatic "microverse"
-      content: We study aquatic microbial communities and how they affect the biosphere's function
+      content: We study aquatic microbial communities and their effect on our biosphere
       align: center
       background:
         position: center
@@ -51,7 +51,7 @@ content:
         fit: cover
         media: fastq.png 
     - title: Interested in joining?
-      content: The lab will officially open in July 2023. Please check out the "contact" page if you're interested to learn more!
+      content: The lab will officially open in July 2023. Please check out the Contact page if you're interested to learn more!
       align: center
       background:
         position: center
