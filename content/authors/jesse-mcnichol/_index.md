@@ -2,12 +2,27 @@
 title: Jesse McNichol
 role: Assistant Professor
 avatar_filename: avatar.jpg
+bio: I use modern molecular tools and classical approaches to study microbial
+  ecology, biogeochemistry, and evolution.
 social:
   - display:
       header: false
     icon_pack: fab
     icon: twitter
     link: https://twitter.com/jcmcnick
+    label: Personal Twitter
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=en&pli=1&user=8aUVZB4AAAAJ
+    icon_pack: ai
+    icon: google-scholar
+    label: Google Scholar Profile
+  - display:
+      header: false
+    link: https://github.com/jcmcnch
+    icon_pack: fab
+    icon: github
+    label: Github Profile
 superuser: true
 user_groups:
   - PI
