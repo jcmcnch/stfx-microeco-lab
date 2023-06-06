@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jesse McNichol. Campus image credit Brendanriley, Wikimedia Commons. This work is licensed under {license}'
+    notice: '© {year} Jesse McNichol. Campus image credit Brendan Riley, Wikimedia Commons. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
