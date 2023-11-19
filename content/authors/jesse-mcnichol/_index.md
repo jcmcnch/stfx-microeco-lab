@@ -1,7 +1,7 @@
 ---
 title: Jesse McNichol
 role: Assistant Professor
-avatar_filename: avatar.jpg
+avatar_filename: p23_5236_cropped_resized.jpg
 bio: I use modern molecular tools and classical approaches to study microbial
   ecology, biogeochemistry, and evolution.
 social:
