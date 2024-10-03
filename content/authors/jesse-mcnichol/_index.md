@@ -25,7 +25,7 @@ social:
     label: Github Profile
   - display:
       header: false
-    link: static/uploads/files/jcm-vita_revised.pdf
+    link: https://github.com/jcmcnch/stfx-microeco-lab/blob/0cc4c387a5eae5e2177f2da5d6bc40c259faeade/static/uploads/files/jcm-vita_revised.pdf
     icon_pack: ai
     icon: cv
 superuser: true
