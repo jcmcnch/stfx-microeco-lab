@@ -23,6 +23,11 @@ social:
     icon_pack: fab
     icon: github
     label: Github Profile
+  - display:
+      header: false
+    link: static/uploads/files/jcm-vita_revised.pdf
+    icon_pack: ai
+    icon: cv
 superuser: true
 user_groups:
   - PI
