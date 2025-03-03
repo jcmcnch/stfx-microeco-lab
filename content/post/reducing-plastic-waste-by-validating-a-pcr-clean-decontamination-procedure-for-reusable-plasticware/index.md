@@ -9,4 +9,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-More to come soon... This post is a placeholder for a PDF of the protocol for public consumption as we validate this procedure's effectiveness:
+More to come soon... This post is a placeholder for a PDF of the protocol for public consumption as we validate this procedure's effectiveness. 
+
+You can download a PDF of the protocol here:
+
+<https://www.stfxmicroeco.ca/files/250131_improved_Fuhrman_cleaning_protocol.pdf>
