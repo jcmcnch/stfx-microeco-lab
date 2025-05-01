@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: mcnichol at alum dot mit dot edu
+  email: jmcnicho at stfx dot ca
   address:
     street: J. Bruce Brown Hall 408/409
     city: Antigonish
@@ -48,4 +48,4 @@ design:
   columns: '1'
 ---
 
-Are you interested in studying the "unseen majority" of microbes in natural ecosystems / microbiomes? The lab will offically open in July 2023 and we may have some positions open for student research depending on funding. Contact Dr. McNichol with your CV / résumé, research interests, and desired type of position (i.e. undergraduate summer research project, honours thesis, graduate position, postdoc, volunteer, etc.) to discuss how we might work together. If this is your first time emailing someone to obtain research experience, I suggest looking online for advice. [This article](https://www.science.org/content/article/dear-dr-neufeld) is a good place to start!
+Are you interested in studying the "unseen majority" of microbes in natural ecosystems / microbiomes? There are many opportunities for student research projects in this broad and interdisciplinary field! Students who are in related fields such as Earth Science, Geology, Computer Science, Engineering, etc should feel comfortable contacting me (i.e. not just Biology majors!). To discuss further you can do one of two things. a) drop by my office to discuss informally (JBB 419) or b) contact me by email with your CV / résumé, research interests, and desired type of position (i.e. undergraduate summer research project, honours thesis, graduate position, postdoc, volunteer, etc.). If this is your first time emailing someone to obtain research experience, I suggest looking online for advice. [This article](https://www.science.org/content/article/dear-dr-neufeld) is a good place to start!
