@@ -4,6 +4,8 @@ role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: I use modern molecular tools and classical approaches to study microbial
   ecology, biogeochemistry, and evolution.
+interests:
+  - Testing 1 2 3
 social:
   - display:
       header: false
@@ -32,4 +34,3 @@ superuser: true
 user_groups:
   - PI
 ---
-Testing 1 2 3
