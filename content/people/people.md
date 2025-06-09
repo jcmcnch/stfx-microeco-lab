@@ -16,13 +16,9 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - PI
-    - Research Technicians
-    - Postdocs
-    - Grad Students
-    - Undergraduate Students
-    - Visitors
-    - Alumni
+    - Principal Investigator
+    - Current Lab Members
+    - Lab Alumni
 design:
   show_interests: true
   show_role: true
