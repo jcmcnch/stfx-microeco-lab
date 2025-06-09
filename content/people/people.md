@@ -20,6 +20,7 @@ content:
     - Current Lab Members
     - Lab Alumni
 design:
+  show_bio: true
   show_interests: true
   show_role: true
   show_social: true
