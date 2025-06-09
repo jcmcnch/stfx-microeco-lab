@@ -1,6 +1,6 @@
 ---
 title: Jesse McNichol
-role: Assistant Professor
+role: Assistant Professor (PI)
 avatar_filename: avatar.jpg
 bio: This is my bio
 interests:
@@ -32,7 +32,7 @@ social:
     icon: cv
 superuser: true
 user_groups:
-  - Principal Investigator
+  - Current Lab Members 
 ---
 
 Hi there! I am a marine microbial ecologist. I study how microorganisms affect the environment, each other, and respond to processes like climate change. What do I mean by microbe? Well, generally speaking, I mean small, simple organisms that do not have complex tissues like we do. Despite their tiny size, these organisms have outsize roles in keeping our planet habitable. To paraphrase a participant of the X-CHEM program in 2024, "we wouldn't even be here if the cyanobacteria hadn't pooped out all the oxygen" (google "great oxidation event" if you're curious to know more). Microbes don't just "poop out" oxygen, they also produce / consume greenhouse gases like carbon dioxide, methane, and nitrous oxide. They are the base of the food web in most areas of the ocean, regenerate nutrients for algae, and can do just about any biochemical process you can imagine if it benefits them.
