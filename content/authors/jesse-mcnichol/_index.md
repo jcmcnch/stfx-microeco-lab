@@ -9,7 +9,8 @@ interests:
 social:
   - display:
       header: false
-    icon: bluesky
+    icon: twitter
+    icon_pack: fab 
     link: https://bsky.app/profile/jcmcnch.bsky.social
     label: Personal Bluesky
   - display:
