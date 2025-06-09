@@ -9,10 +9,10 @@ interests:
 social:
   - display:
       header: false
-    icon: bluesky.jpeg
+    icon: "custom/bluesky"
     link: https://bsky.app/profile/jcmcnch.bsky.social
     label: Personal Bluesky
-    icon_pack: far
+    icon_pack: custom 
   - display:
       header: false
     link: https://scholar.google.com/citations?hl=en&pli=1&user=8aUVZB4AAAAJ
