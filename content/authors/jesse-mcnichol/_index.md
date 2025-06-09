@@ -9,7 +9,7 @@ social:
   - display:
       header: false
 #    icon_pack: fab
-    icon: assets/media/icons/bluesky.jpeg
+    icon: bluesky.jpeg
     link: https://bsky.app/profile/jcmcnch.bsky.social
     label: Personal Bluesky 
   - display:
