@@ -2,16 +2,17 @@
 title: Jesse McNichol
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: This is my bio 
+bio: This is my bio
 interests:
-  - Microbal ecology, biogeochemistry, oceanography, bioinformatics, single-cell activity assays
+  - Microbal ecology, biogeochemistry, oceanography, bioinformatics, single-cell
+    activity assays
 social:
   - display:
       header: false
-#    icon_pack: fab
     icon: bluesky.jpeg
     link: https://bsky.app/profile/jcmcnch.bsky.social
-    label: Personal Bluesky 
+    label: Personal Bluesky
+    icon_pack: far
   - display:
       header: false
     link: https://scholar.google.com/citations?hl=en&pli=1&user=8aUVZB4AAAAJ
