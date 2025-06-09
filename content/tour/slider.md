@@ -51,7 +51,7 @@ content:
         fit: cover
         media: fastq.png 
     - title: Interested in joining?
-      content: The lab will officially open in July 2023. Please check out the Contact page if you're interested to learn more!
+      content: Please check out the Contact page if you're interested to learn more!
       align: center
       background:
         position: center
