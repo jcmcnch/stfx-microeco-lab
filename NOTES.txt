@@ -1,0 +1,5 @@
+Creating a new user:
+- Start from netlify user interface, make name, upload photo
+- Fill in "interests" with user-supplied text
+- In github, authors add usergroup, "avatar.jpg" as photo
+- On github, do `git mv` to change name of photo to "avatar.jpg"
