@@ -1,9 +1,9 @@
 ---
 title: Katherine Rutherford
-role: Research Technician
-avatar_filename: k.rutherford-2025-1_cropped_resized.jpg
+role: Research Technician (CBIOMES)
+avatar_filename: avatar.jpg
 social: []
 superuser: false
 user_groups:
-  - Research Technician
+  - Research Technicians
 ---
