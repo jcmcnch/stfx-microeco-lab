@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Lab!
-  subtitle: Click on each person's picture to learn more about who they are and what they are working on.
+#subtitle: Click on each person's picture to learn more about who they are and what they are working on.
 
 content:
   # Choose which groups/teams of users to display.
