@@ -15,7 +15,7 @@ social:
     label: Personal Bluesky
   - display:
       header: false
-    link: https://scholar.google.com/citations?hl=en&pli=1&user=8aUVZB4AAAAJ
+    link: https://scholar.google.ca/citations?hl=en&user=8aUVZB4AAAAJ&view_op=list_works&sortby=pubdate 
     icon_pack: ai
     icon: google-scholar
     label: Google Scholar Profile
