@@ -17,9 +17,7 @@ The purpose of this page is to provide information for current lab members to su
 
 ## Protocols
 
-Many lab protocols are found below in the OneDrive shared folder. You need to ask me for access. Only Katherine and I have write access to certain directories, so please let us know if you want something to be changed.
-
-[OneDrive Shared Folder](https://stfxca-my.sharepoint.com/:f:/r/personal/jmcnicho_stfx_ca/Documents/StFXMicroEcoLab?csf=1&web=1&e=Gght3e)
+Many lab protocols are found in the [OneDrive Shared Folder](https://stfxca-my.sharepoint.com/:f:/r/personal/jmcnicho_stfx_ca/Documents/StFXMicroEcoLab?csf=1&web=1&e=Gght3e). You need to ask me for access. Only Katherine and I have write access to certain directories, so please let us know if you want something to be changed.
 
 ## eLab Notebook
 
