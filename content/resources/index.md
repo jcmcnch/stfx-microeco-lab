@@ -23,8 +23,12 @@ Many lab protocols are found below in the OneDrive shared folder. You need to as
 
 ## eLab Notebook
 
-You can access an experimental eLab notebook [here](https://elab.stfxmicroeco.ca). You need to request an account using the web interface. My goal with this elab notebook is that it will make routine protocols easier to apply and make resultant data analysis / archiving more robust. A good first project would be to make a template for our picogreen protocol with *Victor*.
+You can access an experimental eLab notebook [here](https://elab.stfxmicroeco.ca). You need to request an account using the web interface. My goal for this elab notebook is to make routine protocols more straightforward to apply, easily record relevant modifications, and make resultant data analysis / archiving more robust. A good first project would be to make a template for our picogreen protocol with *Victor*. It may also be useful as a LIMS if we can find the time to learn to use it in this manner.
 
 ## GitHub
 
-If you are doing a bioinformatics-based project (or even have a component that is bioinformatics) I would like you to set up a github account and join [our github group](https://github.com/stfx-microeco-lab). That way, you can start sharing code with me and others in the group right away.
+If you are doing a bioinformatics-based project (or even have a component that is bioinformatics) I would like you to set up a github account and join [our github group](https://github.com/stfx-microeco-lab). That way, you can start sharing code with me and others in the group right away. If this applies to you, talk to me about the procedure to get this set up and we can write up a protocol together that will live on this site.
+
+## Freezer Monitoring
+
+[Link to freezer monitoring site](https://my.swiftsensors.net/sign-in) (only Jesse and Katherine have access to this).
