@@ -27,6 +27,10 @@ You can access an experimental eLab notebook [here](https://elab.stfxmicroeco.ca
 
 If you are doing a bioinformatics-based project (or even have a component that is bioinformatics) I would like you to set up a github account and join [our github group](https://github.com/stfx-microeco-lab). That way, you can start sharing code with me and others in the group right away. If this applies to you, talk to me about the procedure to get this set up and we can write up a protocol together that will live on this site.
 
+## Cool Reading Resource for Microbiology
+
+- [Microbe Profiles](https://www.microbiologyresearch.org/content/microbe-profiles) - A great resource for learning about some "famous" microbes. Maybe we can write some of our own too!
+
 ## Freezer Monitoring
 
 [Link to freezer monitoring site](https://my.swiftsensors.net/sign-in) (only Jesse and Katherine have access to this).
