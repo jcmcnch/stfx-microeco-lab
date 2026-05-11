@@ -25,3 +25,6 @@ main:
   - name: Resources
     url: resources
     weight: 70
+  - name: Death Hole Literature
+    url: dhooi
+    weight: 80
