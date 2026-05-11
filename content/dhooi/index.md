@@ -17,7 +17,7 @@ The purpose of this page is to provide a quick reference page to help you get to
 
 ## Physicochemistry
 
-- The [Punshon *et al* paper](https://stfxca-my.sharepoint.com/:b:/r/personal/jmcnicho_stfx_ca/Documents/StFXMicroEcoLab/Useful%20papers/Punshon%20et%20al.%20-%202022%20-%20Carbon%20cycling%20and%20redox%20chemistry%20in%20an%20anoxic%20marine%20basin,%20Bras%20d%E2%80%99Or%20Lake,%20Nova%20Scotia.pdf?csf=1&web=1&e=t9fFxC) is the authoriative reference for understanding the chemistry of this site. Note: link is only available to StFX folks due to copyright restrictions. If you are an outside collaborator, email me for a copy.
+- The [Punshon *et al* paper](https://tinyurl.com/punshonpaper) is the authoriative reference for understanding the chemistry of this site. Note: link is only available to StFX folks due to copyright restrictions. If you are an outside collaborator, email me for a copy.
 - Teala Chambers' [MSc thesis](https://dalspace.library.dal.ca/bitstreams/c8a96c23-a443-4952-8431-7ab9c7f37446/download) contains lots of useful additional info regarding the chemistry of the site.
 
 ## Papers on "Organisms of Interest" (OOI) found at the site:
