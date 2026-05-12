@@ -26,10 +26,16 @@ The purpose of this page is to provide a set of instructions for getting you set
 - pcfb
 - HBB
 
+## Tips 'n' Tricks
+
+- Make sure you know where you are
+- Set up aliases for `rm`, `cp`, `mv` to avoid doing stupid stuff
+- Run `ls` before doing any command like `cp`, `mv`, `rm`
+
 ## Getting Connected by SSH
 
 1. Ask for an account to be created for you on `delltronXL`, the lab server.
-2. *Optional (depends on whether your research needs it):* [Sign up for ACENET](https://ccdb.alliancecan.ca/account_application), then let Jesse know **your username** so he can add you to the lab account.
+2. *Optional (depends on whether your research needs it):* [Sign up for ACENET](https://ccdb.alliancecan.ca/account_application), then let Jesse know **your username** so he can add you to the lab account. Once you've been approved, log in to your ccdb account, go to "Resources", "Access Systems", and ask for access to every server there. We may not use all of them, but good to just ask.
 3. Check to see whether you can log in to the lab server by `ssh`, i.e.:
 ```
 ssh username@delltronxl.ad.stfx.ca #this method may not work for students
