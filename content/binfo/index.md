@@ -29,7 +29,7 @@ The purpose of this page is to provide a set of instructions for getting you set
 ## Getting Connected by SSH
 
 1. Ask for an account to be created for you on `delltronXL`, the lab server.
-2. *Optional (depends on whether your research needs it):* Sign up for ACENET, then let Jesse know so he can add you to the lab account.
+2. *Optional (depends on whether your research needs it):* [Sign up for ACENET](https://ccdb.alliancecan.ca/account_application), then let Jesse know **your username** so he can add you to the lab account.
 3. Check to see whether you can log in to the lab server by `ssh`, i.e.:
 ```
 ssh username@delltronxl.ad.stfx.ca #this method may not work for students

@@ -28,6 +28,6 @@ main:
   - name: Death Hole Literature
     url: dhooi
     weight: 80
-  - name: Bionformatics Setup
+  - name: Bioinformatics Setup
     url: binfo
     weight: 90
