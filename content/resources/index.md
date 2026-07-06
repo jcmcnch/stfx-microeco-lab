@@ -23,6 +23,10 @@ Many lab protocols are found in the [OneDrive Shared Folder](https://stfxca-my.s
 
 You can access an experimental eLab notebook [here](https://elab.stfxmicroeco.ca). You need to request an account using the web interface. My goal for this elab notebook is to make routine protocols more straightforward to apply, easily record relevant modifications, and make resultant data analysis / archiving more robust. A good first project would be to make a template for our picogreen protocol with *Victor*. It may also be useful as a LIMS if we can find the time to learn to use it in this manner.
 
+## Website Profile
+
+I will set up a basic profile for you on the website, and I encourage you to add a bit of text about yourself, your project, and your research interests (see example [here](https://www.stfxmicroeco.ca/author/jillian-davies/)). You can also add a picture if you like, but this is completely optional. Please email me with whatever text you'd like to appear on the website and I'll update your profile.
+
 ## Cool Reading Resource for Microbiology
 
 - [Microbe Profiles](https://www.microbiologyresearch.org/content/microbe-profiles) - A great resource for learning about some "famous" microbes. Maybe we can write some of our own too!

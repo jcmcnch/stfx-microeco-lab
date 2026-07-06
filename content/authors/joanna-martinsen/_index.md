@@ -1,0 +1,9 @@
+---
+title: Joanna Martinsen
+role: Undergraduate Honours Student
+avatar_filename: avatar.jpg
+social: []
+superuser: false
+user_groups:
+  - Current Lab Members
+---
